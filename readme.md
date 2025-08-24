@@ -17,12 +17,6 @@ This project is a Django-based authentication system designed for learning and r
 djauth/
 ├── accounts/
 │   ├── migrations/
-│   ├── templates/
-│   │   ├── home.html
-│   │   ├── login.html
-│   │   ├── register.html
-│   │   ├── dashboard.html
-│   │   └── update_profile.html
 │   ├── __init__.py
 │   ├── views.py
 │   ├── urls.py
@@ -32,6 +26,14 @@ djauth/
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
+├── templates/
+│   ├── home.html
+│   ├── login.html
+│   ├── register.html
+│   ├── dashboard.html
+│   └── update_profile.html
+├── static/
+│   └── (your static files: CSS, JS, images, etc.)
 ├── db.sqlite3
 ├── manage.py
 └── .gitignore
