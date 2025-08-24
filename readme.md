@@ -42,7 +42,7 @@ djauth/
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/djauth.git
+   git clone https://github.com/msnonari/djauth.git
    cd djauth
    ```
 
